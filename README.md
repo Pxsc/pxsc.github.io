@@ -1,4 +1,3 @@
-</details>  
 <details open>  
   <summary><b>個人說明</b></summary>
 这个README.md文件专门记录我的高中成绩。谢谢关心，共同进步! 数据来源:微信px86ax
