@@ -1,4 +1,6 @@
-<details open>  
+![
+](https://s2.ax1x.com/2019/10/16/KiD0aT.png)  
+<details> 
   <summary><b>個人說明</b></summary>
 这个网页用来记录我的高中成绩。谢谢关心，共同进步! 数据来源:学校成绩册。
 </details> 
