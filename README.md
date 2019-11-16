@@ -1,5 +1,8 @@
-![freeCodeCamp.org
-](https://s2.ax1x.com/2019/08/26/mW5XCt.md.png)  
+<details open>
+  <summary><b>感谢</b></summary>
+谢谢关心，共同进步！
+</details>  
+  
 *高一上学期期中考*    
 ```
 级排名 313
@@ -44,13 +47,6 @@
 物理 72
 历史 72
 ```
-<details open>
-  <summary><b>感谢</b></summary>
-谢谢关心，共同进步！
-</details>
 
-<details>  
-  <summary><b>相关信息</b></summary>
-①级人数1300左右(出班任之口) 主科150其余100。
-②数据来源:在办公室查阅成绩册。③页面用途:方便朋友知道,公开高中所有在校数据。④想找一个人一起长期统计。
-</details>  
+
+
