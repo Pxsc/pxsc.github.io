@@ -1,6 +1,6 @@
-<details open>
+<details>
   <summary><b>感谢</b></summary>
-谢谢关心，共同进步！
+谢谢你的关心，共同进步！
 </details>  
   
 *高一上学期期中考*    
